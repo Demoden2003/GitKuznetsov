@@ -1,0 +1,127 @@
+div.glav{
+    margin: 0px 0px 0px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+button.styleb{
+    border: none;
+    font-size: 16px;
+    margin: 5px;
+}
+button.stylevhod{
+    border-color: rgb(52, 227, 58);
+    margin: 0px 0px 0px 500px;
+    font-size: 16px;
+}
+button.stylereg{
+    border-color: rgb(52, 227, 58);
+    margin: 0px 0px 0px 10px;
+    font-size: 16px;
+    background-color: rgb(52, 227, 58);
+    color: white;
+}
+.buttong:hover{
+    color:slateblue;
+}
+.menu{
+    background-color: #292929;
+    color: grey;
+    width: 260px;
+    height: 460px;
+    font-size: 16px;
+    padding: 3px 0px 0px 0px;
+}
+.menu li{
+    list-style-type: none;
+    padding: 5px;
+    margin: 0px 20px 0px 80px;
+}
+.menu li:hover{
+    color: #fff;
+    border-bottom: 2px solid #FFFF00;
+  }
+.menu hr{
+    background-color: grey;
+    border: none;
+    height: 1px;
+}
+.paint{
+    margin: 0px 0px 0px 115px;
+    padding: 0px 0px 15px 0px;
+}
+.lol{
+    display: flex;
+    flex-direction: row;
+}
+.normal{
+    padding: 10px 0 0 10px;
+}
+.normal hr{
+    background-color: grey;
+    border: none;
+    height: 1px;
+}
+.normal .p1{
+    font-size: 24px;
+}
+.normal .p2{
+    font-size: 12px;
+    color:grey;
+    padding: 0px 0px 10px 0px;
+}
+.blin{
+    padding: 10px 10px 0px 0px;
+}
+.glavtext{
+    font-size: 16px;
+    padding: 10px 0px 0px 10px;
+}
+.textzag{
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px 0px 20px 0px;
+}
+.fond{
+    display: flex;
+    flex-direction: row;
+    margin: 25px 0px 0px 100px;
+}
+.fond li{
+    list-style-type: none;
+    font-size: 14px;
+    padding: 0px 0px 10px 30px;
+}
+.sibir{
+    padding: 0px 0px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text-sibir{
+    font-size: 20px;
+    font-weight: bold;
+}
+.fond .pg{
+    padding: 0px 5px 0px 0px;
+}
+.number{
+    font-size: 16px;
+    font-weight: bold; 
+}
+.russ{
+    font-size: 12px;
+    color: grey;
+}
+.fond .text-down {
+    font-weight: bold;
+    padding: 0px 0px 0px 70px;
+}
+.down{
+    display: flex;
+    justify-content: space-between;
+}
+.down div{
+    color: grey;
+    font-size: 12px;
+}
